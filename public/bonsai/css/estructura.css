@@ -1,0 +1,129 @@
+
+
+/* CSS Document */
+.generar_html .columna{min-height:40px; border:1px solid #000; margin:-1px; position:relative}
+.generar_html .columna:after { content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.generar_html .columna {display:inline-block;}
+.generar_html .columna {display:block;}
+
+
+.macro_1,.macro_2,.macro_4,.macro_6{float:left;}
+.macro_6{ width:100%;}
+.macro_4{ width:692px;}
+.macro_2{ width:224px; margin-left:10px;}
+
+
+.col_izq, .col_der, .col_cen, .col_1,.col_26,.col_2,.col_2_der, .col_2_izq, .columna2izq, .columna2der,.col_3,.col_4,.col_4izq,.col_4der, .col_5, .col_6, .columna3izq,.columna3cen,.columna3der, .columna5, .col_40, .col_60,.col_33, .col_33centro {float:left;}
+
+
+/*RESTARLE 120PX A LA COLUMNA ORIGINAL, SI ES EN PORCENTAJES DEJAR EL MISMO*/
+.selmacro .macro_6,  .selmacro .macro_4, .selmacro .macro_4_fondo_gris,.selmacro .macro_3, .selmacro .macro_2,  .selmacro .macro_1{background-color:#CCC; padding:5px 0; margin:0!important}
+.selmacro .macro_6{ width:100%;}
+.selmacro .macro_4{ width:60%;} 
+.selmacro .macro_2{ width:40%;}
+
+
+.generar_html .macro_4 .col_1{width:32%;}
+.generar_html .macro_4 .col_2_izq{width:45%; margin-right:5%;}
+.generar_html .macro_4 .col_2_der{width:45%; margin-left:5%;}
+.generar_html .macro_4 .col_3{width:66%;margin-right:10px;} /*75*/
+.generar_html .macro_4 .col_4{width:100%;}
+
+.generar_html .macro_4 .col_izq, .generar_html .macro_4 .col_cen, .generar_html .macro_4 .col_der{width:33%;}
+
+
+.plantillagral .macro_4 .col_1{width:32%; }
+.plantillagral .macro_4 .col_2_izq{width:45%; margin-right:5%;}
+.plantillagral .macro_4 .col_2_der{width:45%; margin-left:5%;}
+.plantillagral .macro_4 .col_3{width:66%;margin-right:10px;}
+.plantillagral .macro_4 .col_4{width:100%}
+
+.plantillagral .macro_4 .col_izq{width:224px; margin-right:10px;}
+.plantillagral .macro_4 .col_cen{width:224px; margin-right:10px;}
+.plantillagral .macro_4 .col_der{width:224px;}
+
+
+.generar_html .macro_2 .col_4{width:100%;}
+.plantillagral .macro_2 .col_4{width:100%;}
+
+
+
+.generar_html .macro_6 .col_1{width:37%;}
+.generar_html .macro_6 .col_2{width:50%;}
+.generar_html .macro_6 .col_3{width:63%;} /*75*/
+.generar_html .macro_6 .col_4{width:100%;}
+.generar_html .macro_6 .col_40{width:40%;}
+.generar_html .macro_6 .col_60{width:60%;}
+.generar_html .macro_6 .col_33{width:33%;}
+.generar_html .macro_6 .col_33centro{width:34%;}
+
+.plantillagral .macro_6 .col_1{width:37%; margin-top:250px;}
+.plantillagral .macro_6 .col_2{width:50%;}
+.plantillagral .macro_6 .col_3{width:63%;}
+.plantillagral .macro_6 .col_4{width:100%}
+.plantillagral .macro_6 .col_40{width:40%;}
+.plantillagral .macro_6 .col_60{width:60%;}
+.plantillagral .macro_6 .col_33{width:33%;}
+.plantillagral .macro_6 .col_33centro{width:34%;}
+
+
+
+.columnascargadas{ margin-top:15px;min-height:60px; padding:0 10px 10px 10px;}
+.columnascargadas .columna{ margin-bottom:20px; }
+
+.generar_html .macro_5 .col_25izq{width:350px;}
+.generar_html .macro_5 .col_25der{width:350px;}
+.generar_html .macro_5 .col_5{width:703px;}
+.generar_html .macro_26 .col_26{width:252px;}
+
+.plantillagral .macro_5 .col_25izq{width:352px;margin-right:9px;}
+.plantillagral .macro_5 .col_25der{width:352px;margin-left:10px;}
+.plantillagral .macro_5 .col_5{width:725px}
+.plantillagral .macro_26 .col_26{width:260px;margin-left:15px;}
+
+
+
+
+.col_fondo_caja_gris{ }
+
+
+.generar_html .macro_3 .col_1{width:115px;}
+.generar_html .macro_3 .col_2{width:238px;}
+.generar_html .macro_3 .col_3{width:345px;}
+.generar_html .macro_3 .col_4{width:477px;}
+
+
+.generar_html .macro_1 .col_1{width:144px;}
+
+
+
+.fondo_celeste{ background:url(../imagenes/fondo_bordes_elementos.png) left center no-repeat;  width:988px; margin-left:-11px; padding-left:14px;}
+.fondo_rayado{ background:url(../imagenes/fondo_diagonales.jpg) repeat left top;}
+.fondo_gris{ background:#CCC}
+
+.plantillagral .fondo_celeste .macro_6 { padding:10px 0; border-top:1px solid #CCC; margin:10px; width:958px}
+.plantillagral .fondo_celeste .macro_6 .col_1{ width:228px; padding:5px;}
+.plantillagral .fondo_celeste .macro_6 .col_4{ width:958px;}
+
+.plantillagral .caja_agenda .macro_6 .col_1{ width:228px; padding:5px;}
+
+
+.plantillagral .macro_5 .col_1{width:200px;}
+.plantillagral .macro_5 .col_2{width:395px;}
+.plantillagral .macro_5 .col_3{width:590px;}
+.plantillagral .macro_5 .col_4{width:790px;}
+.plantillagral .macro_5 .col_fondo_gris{width:157px; margin-right:1px;}
+
+
+
+
+
+.plantillagral .macro_3 .col_1{width:124px;}
+.plantillagral .macro_3 .col_2{width:248px;}
+.plantillagral .macro_3 .col_3{width:345px;}
+.plantillagral .macro_3 .col_4{width:497px;}
+
+.plantillagral .macro_1 .col_1{width:164px;}
+
+
+/* estilos np torneos */

@@ -1,0 +1,10 @@
+/*DETALLE DE LA NOTA*/
+
+.ticketSigen{ text-align:center; width:500px; border:1px solid #999;}
+.textointro{font-size:14px; font-weight:bold; text-align:center; margin:10px 0;}
+.logocnc{ padding:5px 0; margin-bottom:5px; border-bottom:1px solid #999; height:50px;}
+.textointroTicket{padding-bottom:5px; margin-bottom:5px; border-bottom:1px solid #999;}
+.datosTicket{ text-align:left; margin:20px 0}
+.datosTicket .txttit{ float:left; width:110px; margin-left:20px;}
+.datosTicket .txtdato{ float:left; width:340px; font-weight:normal;}
+.barcode{margin:10px 0;}

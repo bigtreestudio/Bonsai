@@ -1,0 +1,33 @@
+svg{ width:630px; height:640px;}
+svg #mapa-comuna-1,
+svg #mapa-comuna-2,
+svg #mapa-comuna-3,
+svg #mapa-comuna-4,
+svg #mapa-comuna-5,
+svg #mapa-comuna-6,
+svg #mapa-comuna-7,
+svg #mapa-comuna-8,
+svg #mapa-comuna-9,
+svg #mapa-comuna-10,
+svg #mapa-comuna-11,
+svg #mapa-comuna-12,
+svg #mapa-comuna-13,
+svg #mapa-comuna-14,
+svg #mapa-comuna-15{ stroke: gray; fill: white;  }
+svg #mapa-comuna-1:hover,
+svg #mapa-comuna-2:hover,
+svg #mapa-comuna-3:hover,
+svg #mapa-comuna-4:hover,
+svg #mapa-comuna-5:hover,
+svg #mapa-comuna-6:hover,
+svg #mapa-comuna-7:hover,
+svg #mapa-comuna-8:hover,
+svg #mapa-comuna-9:hover,
+svg #mapa-comuna-10:hover,
+svg #mapa-comuna-11:hover,
+svg #mapa-comuna-12:hover,
+svg #mapa-comuna-13:hover,
+svg #mapa-comuna-14:hover,
+svg #mapa-comuna-15:hover{ fill: #fcda59; cursor:pointer  }
+
+.selectedMapa{fill: #fcda59;}

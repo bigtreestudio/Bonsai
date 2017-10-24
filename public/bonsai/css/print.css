@@ -1,0 +1,15 @@
+/*DETALLE DE LA NOTA*/
+body{padding:20px !important;font-size:12px !important;}
+#cuerpo_superior, .rightcolumn, #footerbackground, .ThumbsImagenes, .lstredessociales , #DetalleProyecto .contenido_der, #DetalleProyecto .cambiartamanioFuente, #logo .der, #DetalleProyecto .noticiaVideos , #DetalleProyecto .caja_relacionadas{display:none !important;}
+.accesosrapidos .menusup{height:15px;}
+#contenidoInterna{margin-top:20px;}
+#contenedor{width:1000px !important}
+#bordeslaterales, #cuerpo_ppal{width:692px !important;margin:auto;}
+#encabezado_ampliada{width:672px !important;border:0px !important;}
+#logo .izq {border:0px !important;}
+div#DetalleProyecto .contenido_izq{width:100%;}
+div#DetalleProyecto .leftcolumn{margin-top:20px !important}
+div#DetalleProyecto .paisdesc{margin:0px !important}
+div#DetalleProyecto  .primerImagen{display:block !important}
+div#DetalleProyecto  iframe{display:none !important}
+div#DetalleProyecto .SuperiorNoticia {margin-top:10px;}

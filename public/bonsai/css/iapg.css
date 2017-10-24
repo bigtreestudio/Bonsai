@@ -1,0 +1,11 @@
+.iapg-header {
+    width: 421px;
+    height: 155px;
+    background-image: url(../imagenes/logo-congreso10-iapg.png);
+}
+
+.navbar-default {
+    background-color: #ffffff;
+    border-color: #ffffff;
+	border-radius: 0px;
+}

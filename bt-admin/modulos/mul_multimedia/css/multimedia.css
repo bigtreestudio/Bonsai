@@ -1,0 +1,19 @@
+#fotos li{ margin-bottom:3px;}
+#tabs #fotos li, #tabs #videos li, #tabs #audios li{border-bottom:1px solid #000; padding-bottom:3px; margin-bottom:5px;}
+#tabs .anchoorden{width:10%; padding-top:5px;}
+#tabs .anchoimagen{ width:30%; position:relative;}
+#tabs .anchoimagen .play{position:absolute; margin:27% 0 0 35%}
+#tabs .anchoimagen img{ max-width:90%;}
+#tabs .anchodescripcion{ width:60%;}
+.imagen_multimedia{border:2px solid #333; }
+
+#tabs .anchodescripcion textarea{height:30px; font-size:11px;}
+#tabs .footermultimedia .descripcion{ width:80%; float:left; font-size:10px;}
+#tabs .footermultimedia .linkeliminar{ width:10%; text-align:right;  float:right}
+.msgaccionmultimedia{ font-size:10px; font-weight:bold; color:#666;}
+.chkHome{float:left;}
+.labelHome{width:auto; padding:5px 2px; float:left; clear:none}
+
+.linkpreview{ text-align:center; margin:5px auto;}
+.linkpreview .preview{ float:left;}
+.linkpreview .crosspreview{ float:left; margin-left:20px;}

@@ -1,0 +1,12 @@
+/* Cascade StyleSheet for TinyMCE editor */
+body { font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; font-size:12px; line-height:1.4em; }
+
+p { margin:0;  font-size:1em; line-height: 20px !important; color: #433F3F;}
+
+blockquote {padding: 20px 0; border-bottom: 1px solid #CCC;	border-top: 1px solid #CCC;	margin: 15px 0;	font-family: 'Cambria-Regular';	font-size: 1.833em;	color: #565075;	line-height: 1.1em; position: relative; padding-left:35px;}
+blockquote:before {display: block; content: "\201C"; font-size: 4em; position: absolute;left: -5px; top: 25px; color: #7a7a7a;}
+blockquote cite:before {content: "\2014 \2009";}
+blockquote cite{clear:both; font-size: 0.545em;}
+.fleft{ float:left; width:50%; margin-right:20px !important; text-align:center;}
+.fright{ float:right; width:50%; margin-left:20px !important; text-align:center;}
+.clearPos{ clear:both;}

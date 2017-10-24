@@ -1,0 +1,12 @@
+
+function Votar()
+{
+	
+	
+}
+
+function VerResultados()
+{
+	
+	
+}

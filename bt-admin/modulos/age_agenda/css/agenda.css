@@ -1,0 +1,23 @@
+/* CSS Document */
+
+.calendario{background-color:#FFF; padding:40px;}
+.textoferiado{font-size:16px !important; font-weight:bold; text-align:center !important; text-decoration:underline}
+
+
+.multimedia{background-color:#F5F5F5; min-height:250px; padding:10px 1%;}
+
+#fotos li{ margin-bottom:3px;}
+#tabs #fotos li, #tabs #videos li, #tabs #audios li{border-bottom:1px solid #CCC; padding-bottom:3px; margin-bottom:5px;}
+#tabs .anchoorden{width:10%; padding-top:5px;}
+#tabs .anchoimagen{ width:30%;}
+#tabs .anchoimagen .play{position:absolute; margin:22px 0 0 32px}
+#tabs .anchoimagen img{ max-width:90%;}
+#tabs .anchodescripcion{ width:60%;}
+.imagen_multimedia{border:2px solid #333; }
+
+#tabs .anchodescripcion textarea{height:30px; font-size:11px;}
+#tabs .anchodescripcion .descripcion{ width:80%; float:left; font-size:10px;}
+#tabs .anchodescripcion .linkeliminar{ width:10%; text-align:right;  float:right}
+#tabs h3{ font-weight:bold; font-size:14px; padding:2px;}
+
+.msgaccionpagina{font-size:11px; font-weight:bold; color:#666; margin-left:10px; margin-bottom:5px;}

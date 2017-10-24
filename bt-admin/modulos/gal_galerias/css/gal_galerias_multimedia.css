@@ -1,0 +1,55 @@
+.link { color:#06F  !important; font-weight:bold;}
+
+.cajamultimediacolizq {width:35%; float:left}
+.cajamultimediacolder {width:65%; float:left}
+
+.menuizquierda{ float:left; width:40%;}
+.menuderecha{ float:right; }
+
+.cajamultimediacolder .multimedia {background-color:#F7F7F7; min-height:900px; padding:20px 1%;}
+.accionessuperior{width:80px; text-align:right; position:absolute; right:10px; top:5px;}
+.accionessuperior .eliminarMultimedia{ float:left; text-align:right}
+.accionessuperior .mover{ margin-right:15px; float:left; text-align:right}
+.multimedia .todos{ color:#000;}
+
+.cajamultimediacolder .anchoorden{width:9%; padding-top:5px;}
+.cajamultimediacolder .chk{ float:left; width:40px; text-align:center; margin:auto;}
+.cajamultimediacolder .anchoimagen{ float:left; width:130px; margin: 0 10px;}
+.cajamultimediacolder .anchoimagen img{text-align:center;max-height:100px; max-width:100px; cursor:pointer}
+.cajamultimediacolder .anchoimagen .play{}
+
+
+.cajamultimediacolder .txtDatos, .cajamultimediacolder .txtDatosCarga{ float:left;}
+.cajamultimediacolder .txtDatos{ width:100px; margin-left:10px;}
+.cajamultimediacolder .txtDatosCarga input{ width:100%;}
+.cajamultimediacolder .txtDatosCarga textarea{ width:100%; padding:0;}
+.cajamultimediacolder .txtDatosCarga{ width:300px;}
+
+.cajamultimediacolder .alto{border-bottom:solid 2px #d2d2d2; margin:15px 0 15px 80px;}
+.mul_multimedia_previsualizar img{max-width:2%; max-height:70px;}
+.galeria_multimedia_item{background-color:#E9E9E9; margin:1% 0 0 0; border:1px solid #000; position:relative; padding:5px;}
+
+.ui-sortable-helper{background-color:#000!important}
+.ui-sortable-placeholder{ border:1px dashed #000; background-color:#D9FFD9; height:150px;}
+.nombrearchivo {  color:#000; }
+.descripcionarchivo{color:#000;}
+
+.linkpreview{ text-align:center; margin:5px auto;}
+.linkpreview .preview{ float:left;}
+.linkpreview .crosspreview{ float:left; margin-left:20px;}
+.botonfuerte a{border:solid 1px #000 !important;}
+
+.boxsubida{ margin-top:40px;}
+
+
+@media (max-width: 580px){
+
+ .cajamultimediacolder { width:100% !important}
+
+}
+
+@media (min-width: 580px)  and (max-width: 979px) {
+
+ .cajamultimediacolder { width:100% !important}
+
+}

@@ -1,0 +1,83 @@
+/* CSS Document */
+
+
+.multimedia_alta {float:right;}
+.multimediadesctitulo { font-weight:bold; font-size:10px; float:left}
+.multimediadesc { font-weight: normal; font-size:10px; float:left}
+
+
+.sinresultados {padding: 15px;}
+.sinresultados .totales{text-align: center;font-size: 20px;margin: 15px; color:#F80A0A;}
+.sinresultados .txt{}
+.sinresultados .boton_nueva_busqueda{ color:#00F; font-size:15px;}
+.sinresultados .boton_nueva_busqueda a{ color:#00F; font-size:15px;background-color: #FADDDD !important;}
+.sinresultadosMensajes {padding: 15px; background-color:#FFF; font-size:18px;}
+
+.paginator { width: 100%; }
+.paginator .clearfix { float: right;  margin: 0 10px 0 0; }
+.paginator .pages { float: left; margin: 0 5px; }
+.paginator .pages a { line-height: 20px; cursor:pointer; font-size: 1.250em; color: #999999; padding: 0 5px; }
+.paginator .pages a:hover, .paginator .pages a.active { color: #FFFFFF; background: #333333; }
+.paginator .prev, .paginator .next { background-image: url('../imagenes/sprite_img.png'); background-repeat:no-repeat;  width: 11px; height: 18px; display: block; color: transparent; line-height: 0; font-size: 0; float: left; }
+.paginator .prev { background-position: -192px 0; }
+.paginator .next {  background-position:-177px 0; }
+.BtcontactoFondo { float:left}
+
+#Caja_Multimedia_Modulo, #Caja_Multimedia_Modulo_Archivos { background-color: #F2F2F2; width:100%; position:relative; overflow:hidden}
+
+#Caja_Multimedia_Modulo li{ } 
+#Caja_Multimedia_Modulo_Archivos img, #Caja_Multimedia_Modulo img{max-width:182px;max-height:182px; cursor:pointer;}
+#Caja_Multimedia_Modulo_Archivos  .todos, #Caja_Multimedia_Modulo .todos{ color:#000; padding: 0 20px 0 5px }
+#Caja_Multimedia_Modulo_Archivos .chk, #Caja_Multimedia_Modulo .chk{ float:right; width:20px}
+#Caja_Multimedia_Modulo_Archivos .ancho, #Caja_Multimedia_Modulo .ancho{ float:left}
+
+.caja_imagen{ height:182px; margin:14px; float:left; position:relative;}
+
+.caja_imagen .chk{ top:-8px; right:-8px;}
+.caja_imagen .zoom_image{ top:10px; left:-6px;}
+.caja_imagen .edit_image{ top:7px; left:68px;}
+.caja_imagen .del_image{ top:13px; left:81px;}
+.caja_imagen .download_image{ top:12px; left:-40px;}
+.caja_imagen .play_image{ top:12px; left:-40px;}
+.caja_imagen .add_image{ bottom:3px; right:10px;}
+.caja_imagen .delete_image{ bottom:3px; right:50px;}
+
+
+.caja_imagen .chk, .caja_imagen .add_image, .caja_imagen .delete_image, .caja_imagen .zoom_image, .caja_imagen .play_image, .caja_imagen .download_image, .caja_imagen .edit_image, .caja_imagen .chk, .caja_imagen .del_image{ display:none; position:absolute}
+.fondocolor {  display:none; position:absolute;  top:0; left:0; background:url(../imagenes/back-gallery-overlay.png) repeat;  height:182px; width:182px;}
+.fondocolor a{ display:block; height:182px; width:182px;}
+.caja_imagen:hover .fondocolor,.caja_imagen:hover .play_image,.caja_imagen:hover .delete_image,.caja_imagen:hover .add_image, .caja_imagen:hover .chk, .caja_imagen:hover .download_image, .caja_imagen:hover .zoom_image, .caja_imagen:hover .edit_image, .caja_imagen:hover .del_image{ display:block;}
+
+.caja_imagen.activarCaja .fondocolor{ display:block; background:url(../imagenes/back-gallery-overlay.png) repeat; transition:all 160ms}
+.caja_imagen.activarCaja .chk, .caja_imagen.activarCaja .fondocolor{ display:block;}
+
+
+.zoom_image{  background:url(../imagenes/icon-max-gal-2.png) no-repeat; width:48px; height:48px; float:left; margin-top:64px; margin-left:15px; border:2px solid rgba(255, 255, 255, 0.4); border-radius: 2px; transition:all 160ms}
+.zoom_image:hover{ background:#e4495a url(../imagenes/icon-max-gal-2.png) no-repeat center center; border:2px solid #e4495a;border-radius: 2px; transition:all 160ms}
+
+.edit_image{  background:url(../imagenes/icon-edit-gal-2.png) repeat; width:48px; height:48px; margin-top:68px ; float:left; border:2px solid rgba(255, 255, 255, 0.4);transition:all 160ms}
+.edit_image:hover{  background:#e4495a url(../imagenes/icon-edit-gal-2.png) repeat; width:48px; height:48px; margin-top:68px !important; float:left; border:2px solid #e4495a; transition:all 160ms}
+
+.del_image{  background:url(../imagenes/icon-trash-gal-2.png) repeat; width:48px; height:48px; float:left; margin-top:63px; margin-left:45px; border:2px solid rgba(255, 255, 255, 0.4); transition:all 160ms}
+.del_image:hover{  background:#e4495a url(../imagenes/icon-trash-gal-2.png) repeat; width:48px; height:48px; float:left; margin-top:63px; margin-left:45px;border:2px solid #e4495a; transition:all 160ms}
+
+
+.download_image{ background:url(../imagenes/download_a.png) repeat; width:48px; height:48px; float:left; margin-top:63px; margin-left:45px;border:2px solid rgba(255, 255, 255, 0.4); transition:all 160ms}
+.download_image:hover{  background:#e4495a url(../imagenes/download_a.png) repeat; width:48px; height:48px; float:left; margin-top:63px; margin-left:45px;border:2px solid #e4495a; transition:all 160ms}
+
+
+.play_image{ background:url(../imagenes/pl.png) no-repeat; width:48px; height:48px; float:left; margin-top:63px; margin-left:45px;border:2px solid rgba(255, 255, 255, 0.4); transition:all 160ms}
+.play_image:hover{  background:#e4495a url(../imagenes/pl.png) no-repeat; width:48px; height:48px; float:left; margin-top:63px; margin-left:45px;border:2px solid #e4495a; transition:all 160ms}
+
+
+.add_image{ background:url(../imagenes/camera.png) repeat; width:32px; height:32px; float:left; margin-top:63px; margin-left:45px}
+.delete_image{ background:url(../imagenes/delete_preview.png) repeat; width:32px; height:32px; float:left; margin-top:63px; margin-left:45px}
+
+.png
+#container {min-height: 20px;}
+
+#Caja_Multimedia_Modulo_Archivos img{max-width:182px;max-height:182px; cursor:pointer; margin-left:24px}
+#Caja_Multimedia_Modulo_Archivos .desc{ margin-left:24px; font-size:1.3em; font-weight:bold; width:145px}
+#Caja_Multimedia_Modulo_Archivos .caja_imagen .chk{ top:-8px; right:-24px;}
+#Caja_Multimedia_Modulo_Archivos .caja_imagen.activarCaja .fondocolor{ display:block; background:url(../imagenes/back-gallery-overlay.png) repeat;}
+

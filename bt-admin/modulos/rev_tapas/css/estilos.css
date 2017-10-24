@@ -1,0 +1,15 @@
+/* CSS Document */
+
+
+.Areas_Datos{ width:50%; float:left}
+.Areas_Imagenes{ width:50%; float:left}
+.imagen img { max-height:180px; margin-left:30px}
+#mul_multimedia_previsualizar img { max-height:180px; margin-left:130px}
+.Areas_Imagenes .multimedia{background-color:#F5F5F5; padding:10px 1%;}
+.datosgenerales{width:90%; float:left; padding-right:3%; border-right:1px solid #CCC}
+.datoscomplemetarios{width:29%; float:left; margin-left:1%}
+
+
+
+#mul_multimedia_previsualizar_tapa {max-width:95%;max-height:180px;}
+#mul_multimedia_previsualizar_tapa img{max-width:95%; max-height:180px; padding-right:5px}

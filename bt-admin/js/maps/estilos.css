@@ -1,0 +1,5 @@
+/* CSS Document */
+
+#suggest_list { color:#000; text-decoration:underline; cursor:pointer; position:relative}
+.list_item {background-color:white; padding:2px;}
+#suggest_list li:hover {background-color: #cccccc;}

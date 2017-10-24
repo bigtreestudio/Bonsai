@@ -1,0 +1,50 @@
+.datosnoticia{float:left; width:64%; padding-right:3%}
+.datosextranoticia{float:left; width:35%; }
+.datosextranoticia .multimedia{background-color:#EFEFEF; min-height:200px; padding:10px 1%;}
+.datosextranoticia .tabsMapa{ font-weight:bold; font-size:14px; padding:2px; margin:5px 0;}
+.datosgenerales{width:66%; float:left; padding-right:3%; border-right:1px solid #CCC}
+.datoscomplemetarios{width:29%; float:left; margin-left:1%}
+
+
+#tabs .anchodescripcion textarea{height:30px; font-size:11px;}
+#tabs .anchodescripcion .descripcion{ width:80%; float:left; font-size:10px;}
+#tabs .anchodescripcion .linkeliminar{ width:10%; text-align:right;  float:right}
+#tabs h3{ font-weight:bold; font-size:14px; padding:2px;}
+#tabsMapa h3{background-color:#EFEFEF; font-weight:bold; font-size:14px; padding:2px; margin:5px 0;}
+
+#datos_adicionales{border:none; margin-top:10px; }
+#datos_adicionales h3{ font-weight:bold; font-size:14px; padding:2px;}
+#datos_adicionales #tags .inputgral{ height:80px;}
+
+.originalTextareaInfo {	font-size: 10px; color: #000000; text-align: right}
+.warningTextareaInfo { font-size: 10px; color: #FF0000; text-align: right}
+.charCount, .wordCountclass{text-align:right; margin-top:2px; font-size:9px;}
+
+.labeldatoscomplementarios{width:auto; padding:5px 2px;}
+#estadonoticia{font-size:12px; font-weight:bold;}
+.msgaccionnoticia, #msgnoticiatags{font-size:11px; font-weight:bold; color:#666; margin-left:10px; margin-bottom:5px;}
+.drop{cursor:move}
+
+.alineacion_arroba{  float:left; width:15%; font-size:12px;}
+.alineacion_cuerpo{float:left; width:84%; margin-left:1%}
+
+
+@media (max-width: 580px){
+	 .alineacion_arroba{  float:left; width:100%; font-size:14px;}
+     .alineacion_cuerpo{float:left; width:100%; }
+
+	}
+
+@media (min-width: 580px)  and (max-width: 979px) {
+	}
+
+@media (min-width: 768px) and (max-width: 979px) {
+	}
+
+@media (min-width: 979px) and (max-width: 1200px) {
+}
+@media (min-width: 1200px){
+	
+}
+
+

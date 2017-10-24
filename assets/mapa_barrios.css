@@ -1,0 +1,5 @@
+svg{ width:630px; height:640px; font-size:12px;}
+svg .barrio{stroke: gray; fill: white;}
+svg .barrio:hover{ fill: #fcda59; cursor:pointer  }
+
+.selectedMapa{fill: #fcda59;}

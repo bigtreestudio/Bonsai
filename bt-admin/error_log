@@ -1,0 +1,33 @@
+[23-May-2011 18:42:17] PHP Warning:  include(/Datos/cArchivos.db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/bigtreec/public_html/segem/Logica/cArchivos.class.php on line 2
+[23-May-2011 18:42:17] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/Datos/cArchivos.db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bigtreec/public_html/segem/Logica/cArchivos.class.php on line 2
+[23-May-2011 18:42:17] PHP Fatal error:  Class 'cArchivosdb' not found in /home/bigtreec/public_html/segem/Logica/cArchivos.class.php on line 4
+[23-May-2011 18:43:02] PHP Warning:  require_once(Clases/cUsuarios.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/bigtreec/public_html/segem/include.php on line 49
+[23-May-2011 18:43:02] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'Clases/cUsuarios.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bigtreec/public_html/segem/include.php on line 49
+[23-May-2011 18:45:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bigtree_segem'@'localhost' (using password: YES) in /home/bigtreec/public_html/segem/Librerias/accesoBD.php on line 15
+[23-May-2011 18:50:25] PHP Notice:  Undefined index:  modcod in /home/bigtreec/public_html/segem/Plantillas/cEncabezados.php on line 102
+[23-May-2011 18:50:29] PHP Notice:  Undefined index:  modcod in /home/bigtreec/public_html/segem/Plantillas/cEncabezados.php on line 102
+[06-Jan-2012 17:37:00] PHP Notice:  Undefined index:  usuarioid in /home/bigtreec/public_html/gps/usuario_valida.php on line 111
+[06-Jan-2012 17:37:30] PHP Notice:  Undefined index:  usuarioid in /home/bigtreec/public_html/gps/usuario_valida.php on line 111
+[06-Jan-2012 18:31:01] PHP Notice:  Undefined index:  usuarioid in /home/bigtreec/public_html/gps/usuario_valida.php on line 111
+[08-Jan-2012 16:30:44] PHP Notice:  Undefined index:  usuarioid in /home/bigtreec/public_html/gps/usuario_valida.php on line 111
+[08-Jan-2012 16:31:30] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bigtreec/public_html/gps/compras_productos_recibidos_observaciones.php:1) in /home/bigtreec/public_html/gps/Librerias/sesion.php on line 33
+[09-Jan-2012 18:07:11] PHP Notice:  Undefined index:  usuarioid in /home/bigtreec/public_html/gps/usuario_valida.php on line 111
+[09-Jan-2012 22:47:10] PHP Notice:  Undefined index:  usuarioid in /home/bigtreec/public_html/gps/usuario_valida.php on line 111
+[09-Jan-2012 22:48:34] PHP Notice:  Undefined variable: md5_upd in /home/bigtreec/public_html/gps/compras_alta.php on line 330
+[11-Jan-2012 16:38:26] PHP Notice:  Undefined index:  usuarioid in /home/bigtreec/public_html/gps/usuario_valida.php on line 111
+[12-Jan-2012 10:12:03] PHP Notice:  Undefined index:  usuarioid in /home/bigtreec/public_html/gps/usuario_valida.php on line 111
+[12-Jan-2012 10:15:31] PHP Notice:  Undefined variable: datosvalidados in /home/bigtreec/public_html/gps/Logica/cClientes.class.php on line 128
+[12-Jan-2012 10:15:31] PHP Notice:  Undefined variable: datosvalidados in /home/bigtreec/public_html/gps/Logica/cClientes.class.php on line 131
+[12-Jan-2012 10:25:42] PHP Notice:  Undefined variable: md5_upd in /home/bigtreec/public_html/gps/compras_alta.php on line 330
+[12-Jan-2012 10:33:06] PHP Notice:  Undefined variable: md5_upd in /home/bigtreec/public_html/gps/compras_alta.php on line 330
+[12-Jan-2012 10:35:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bigtreec/public_html/gps/productos_stock_futuros.php:1) in /home/bigtreec/public_html/gps/Librerias/sesion.php on line 33
+[12-Jan-2012 10:35:28] PHP Notice:  Undefined variable: md5_upd in /home/bigtreec/public_html/gps/compras_alta.php on line 330
+[12-Jan-2012 10:36:53] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bigtreec/public_html/gps/productos_stock_futuros.php:1) in /home/bigtreec/public_html/gps/Librerias/sesion.php on line 33
+[12-Jan-2012 10:40:51] PHP Notice:  Undefined index:  usuarioid in /home/bigtreec/public_html/gps/usuario_valida.php on line 111
+[12-Jan-2012 11:00:00] PHP Notice:  Undefined variable: md5_upd in /home/bigtreec/public_html/gps/compras_alta.php on line 330
+[12-Jan-2012 11:05:12] PHP Notice:  Undefined index:  usuarioid in /home/bigtreec/public_html/gps/usuario_valida.php on line 111
+[12-Jan-2012 11:06:45] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bigtreec/public_html/gps/productos_stock_futuros.php:1) in /home/bigtreec/public_html/gps/Librerias/sesion.php on line 33
+[12-Jan-2012 11:48:45] PHP Notice:  Undefined index:  usuarioid in /home/bigtreec/public_html/gps/usuario_valida.php on line 111
+[12-Jan-2012 12:27:12] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bigtreec/public_html/gps/productos_stock_futuros.php:1) in /home/bigtreec/public_html/gps/Librerias/sesion.php on line 33
+[12-Jan-2012 13:31:33] PHP Notice:  Undefined index:  usuarioid in /home/bigtreec/public_html/gps/usuario_valida.php on line 111
+[12-Jan-2012 19:10:47] PHP Notice:  Undefined index:  usuarioid in /home/bigtreec/public_html/gps/usuario_valida.php on line 111

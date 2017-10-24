@@ -1,0 +1,11 @@
+.link { color:#4C0099  !important; font-weight:bold;}
+.msgaccionpagina{font-size:11px; font-weight:bold; color:#666; margin-left:10px; margin-bottom:5px;}
+
+.ui-sortable-placeholder, .ui-sortable-placeholderpublic {  border: 1px dotted black;cursor:move !important; background-color:#F5F5F5; visibility: visible !important; height: 30px; !important;cursor:pointer }
+.ui-sortable-placeholder *, .ui-sortable-placeholderpublic *  { visibility: hidden; cursor:move !important;}
+.ui-sortable-placeholderpublic { height: 100px !important; width:280px !important; }
+.ui-sortable-tablas { height: 40px !important;}
+
+.TxtMoveModule{height:20px !important; font-weight:bold; text-align:center; padding:10px !important; list-style:none; cursor:move}
+
+.menucarga ul li a, .menucargader ul li a { color:#666; font:bold 75% arial,sans-serif; text-decoration:none; padding:7px 5px; position:relative; display:inline-block; background:#f3f3f3; background:-webkit-gradient(linear,0% 40%,0% 70%,from(#F5F5F5),to(#F1F1F1)); background:-webkit-gradient(linear,left top,left bottom,from(from(#F5F5F5)),to(to(#F1F1F1))); background:-webkit-linear-gradient(linear,0% 40%,0% 70%,from(#F5F5F5),to(#F1F1F1)); background:-moz-linear-gradient(linear,0% 40%,0% 70%,from(#F5F5F5),to(#F1F1F1)); background:-o-linear-gradient(linear,0% 40%,0% 70%,from(#F5F5F5),to(#F1F1F1)); background:linear-gradient(linear,0% 40%,0% 70%,from(#F5F5F5),to(#F1F1F1)); border:solid 1px #dcdcdc; -webkit-border-radius:2px; -moz-border-radius:2px; border-radius:2px; margin-right:10px;}

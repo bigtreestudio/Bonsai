@@ -1,0 +1,3 @@
+#AddHandler x-httpd-php5-3 .php
+Options +FollowSymlinks
+RewriteEngine On

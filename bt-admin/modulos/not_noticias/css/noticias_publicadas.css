@@ -1,0 +1,12 @@
+.categoriassel{ list-style-type:circle; margin-left:20px;}
+.categoriassel li{ font-weight:bold; }
+
+.noticiasrel{ list-style-type:circle; margin-left:40px;}
+.noticiasrel li{ font-size:13px; margin-top:5px;}
+.noticiasrel li.notdestacada{ font-weight:bold;}
+
+
+.datosadicionales{margin-top:20px;}
+h3.adicionales{font-weight:bold; font-size:18px; margin-top:20px;}
+h4{font-weight:bold; font-size:14px; margin-left:10px;}
+

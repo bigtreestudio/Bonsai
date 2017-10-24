@@ -1,0 +1,6 @@
+/* CSS Document */
+
+#imgMostrar img{max-width:100%;max-height:150px;}
+
+.msgaccionbanner{font-size:11px; font-weight:bold; color:#666; margin-left:10px; margin-bottom:5px;}
+#visualizarbanner img{max-width:400px;}

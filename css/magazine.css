@@ -1,0 +1,42 @@
+/* CSS Document */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,select,p,blockquote,th,td{margin:0;padding:0}table{border-collapse:collapse;border-spacing:0}fieldset,img{border:0}address,button,caption,cite,code,dfn,/*em,*/input,optgroup,option,select,strong,textarea,th,var{font:inherit}del,ins{text-decoration:none}li{list-style:none}caption,th{text-align:left}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}q:before,q:after{content:''}abbr,acronym{border:0;font-variant:normal}sup{vertical-align:baseline}sub{vertical-align:baseline}legend{color:#000}
+html, body { text-align:center; margin : 0; padding : 0; width: 100%; height: 100%; overflow: hidden; }
+body {background-color:#1A1A1A;font-family:Arial, Helvetica, sans-serif; font-size: 0.75em; margin-left: 0; margin-right: 0; text-align:left;}
+.clearboth{ clear:both; height:0px; font-size:0px;}
+.clearfix:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
+* html .clearfix { zoom: 1; } /* IE6 */
+*:first-child+html .clearfix { zoom: 1; } /* IE7 */
+footer#footer {  border-top: 10px #1A1A1A solid; background-color:#F7F7F7; margin: 0; padding: 0; width: 100%; height: 60px; position: fixed; bottom: 0; z-index: 15; text-align:center}
+nav ul { list-style: none; margin: 0; padding: 0; }
+nav li { margin: 0 6px; width: auto; display:inline-block;position: relative; }
+nav li a { display: block; cursor:pointer; text-transform:uppercase; font-weight:bold}
+nav li a { background: url(../imagenes/flipbook_icons.png) no-repeat;display: block; text-align: left;height: 14px; display: block; padding-top: 10px;padding-left: 32px;}
+nav li a.home { background-position: 0 -180px; } nav li a.home:hover { background-position: 0 -270px; }
+nav li a.show_all { background-position: 0 -540px; } nav li a.show_all:hover { background-position: 0 -630px; }
+nav li a.zoom_auto { background-position: 0 -720px; } nav li a.zoom_auto:hover  { background-position: 0 -810px; }
+nav li a.zoom_in { background-position: 0 -900px; } nav li a.zoom_in:hover { background-position: 0 -990px; }
+nav li a.zoom_original { background-position: 0 -1080px; } nav li a.zoom_original:hover { background-position: 0 -1170px; }
+nav li a.zoom_out { background-position: 0 -1260px; } nav li a.zoom_out:hover { background-position: 0 -1350px; }
+nav#center { margin: 10px auto 0 auto; width: auto; }
+#page { width: 980px; height: 680px; position: absolute; left: 50%; top: 50%; z-index: 5; }
+#page .padding { padding: 0 34px; }
+.cursor-grab { cursor: -webkit-grab; cursor: -moz-grab; }
+.overlay { background: url(../imgs/flipbook_overlay_bg.png); width: 100%; height: 100%; position: absolute; left: -10000px; top: 0; z-index: 20; opacity: 0; }
+.overlay.active { left: 0; }
+#book { width: 100%; height: 100%; position: relative; z-index: 10; }
+#book .turn-page { background: #FFF; background-size: 100% 100%; }
+.double { background-size: 200% 100% !important; }
+.double.first { background-position: 0% 0%; }
+.double.second { background-position: -100% 0%; }
+.nav_arrow {  margin-top: -68px; width: 34px; height: 136px; position: absolute; top: 50%; z-index: 15; cursor:pointer}
+.nav_arrow.next { background:url(../imagenes/arrow-r.png) no-repeat right; right: -34px; }
+.nav_arrow.prev { background:url(../imagenes/arrow-l.png) no-repeat left; left:-34px; }
+#cover ul { list-style: none; border-top: 1px solid #E2E2E2; border-bottom: 1px solid #E2E2E2; margin: 48% auto 0 auto; padding: 20px 0; width: 90%; clear: both; }
+#cover ul:after { clear: both; content: ''; display: block; }
+#cover li { margin: 0 2.5%; width: 28.3%; float: left; }
+#cover li, #cover img { -moz-user-select: -moz-none; -khtml-user-select: none; -webkit-user-select: none; user-select: none; }
+#cover li:last-child { margin-right: 0; }
+#cover li img { width: 100%; float: left; }
+#cover li a:hover img { opacity: .8; }
+
+.loadingTab{ padding-top:40%; padding-left:20%; font-size:16px; font-weight:bold; position:absolute}

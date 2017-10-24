@@ -1,0 +1,56 @@
+body{font-family:Arial, Helvetica, sans-serif}
+.ancho_01, .ancho_05, .ancho_1, .ancho_2, .ancho_3, .ancho_4, .ancho_5, .ancho_6, .ancho_7, .ancho_8, .ancho_9, .ancho_10, .ancho_11, .ancho_12, .ancho_13, .ancho_14, .ancho_15, .ancho_16, .ancho_17, .ancho_18, .ancho_19, .ancho_20 {display:inline; float:left; margin-left: 0px; margin-right: 0px; }
+.concursonombre{text-align:center; font-size:18px; margin-bottom:50px; margin-top:20px; }
+h1{ font-size:16px; text-align:center;}
+.logo{border-bottom:1px solid #29abe2; padding-bottom:10px;}
+.footer{border-top:1px solid #29abe2; padding-top:10px; font-family:Arial, Helvetica, sans-serif}
+.titulofondo{background-color:#29abe2; color:#FFF; padding:5px 10px; text-align:center}
+.firmaaclaracion{ text-align:center; border-top:1px dashed #333333; font-size:12px; padding-top:5px;}
+.separacionfirma{ height:120px;}
+.barcode{float:right; text-align:right; width:130px;}
+.marginTop{margin-top:20px;}
+.barcode .numero{ text-align:center; font-size:10px;}
+.ancho_01 { width: 1%;}
+.ancho_05 { width: 5%;}
+.ancho_1 { width: 10%;}
+.ancho_2 { width: 20%;}
+.ancho_3 { width: 30%;}
+.ancho_4 { width: 40%;}
+.ancho_5 { width: 50%;}
+.ancho_6 { width: 60%;}
+.ancho_7 { width: 70%;}
+.ancho_8 { width: 80%;}
+.ancho_9 { width: 90%;}
+.ancho_10 { width: 100%;}
+.textocentrado{text-align:center !important;}
+.tituloizq{ font-size:1.000em;}
+.txtrespuesta{color:#333; font-size:1.000em;}
+.cajatexto{ width:100% !important; border:1px solid; border-radius: 5px 5px 5px 5px; padding:2px 2px 2px 2px;}
+.cajatexarea{ width:100% !important; border:1px solid; border-radius: 5px 5px 5px 5px; height:100px; min-height:100px !important; padding:2px 2px 2px 2px;}
+.subrayado{ text-decoration:underline;}
+.clearboth{clear:both}
+.aire { padding:5px; }
+.aire_vertical { padding:5px 0; }
+.brisa_vertical{height:4px; font-size:4px;}
+.aire_menor{padding:1px 0;}
+.brisa_horizontal{padding:0 1px;}
+.tituloseparador {padding: 5px 0px; font-size:1.500em; border-bottom:1px solid #CCC; margin-right:200px; margin-top:10px;}
+.table{width: 100%;max-width: 100%;}
+table{border-collapse: collapse;}
+table, th, td {border: 1px solid black;}
+.list{ color:#666; font-size:1em}
+.negrita { font-weight:bold}
+.margen_sup{ margin-top:20px}
+.caja{ border:1px solid #999; padding:0px 10px 10px 10px;-moz-border-radius: 15px 15px 15px 15px;-webkit-border-radius: 15px 15px 15px 15px;border-radius: 15px 15px 15px 15px;}
+.hr{ width:450px; text-align:center;  margin:20px 0 20px 0 }
+table { font-size: 12px;margin: 45px;text-align: left; border:none }
+th { font-size: 13px;font-weight: normal;padding: 8px; background: #b9c9fe;   border-bottom: 1px solid #fff; color: #039;border-right:none; border-left:none }
+td {padding: 8px;background: #e8edff; border-bottom: 1px solid #fff;color: #669; border-top: 1px solid transparent;  border-right:none; border-left:none }
+tr:hover td { background: #d0dafd; color: #339; }
+tr{border-right:none; border-left:none}
+.oscuro{background: #e8edff !important; }
+.claro{background:#F4F8FB   !important;}
+.seleccion:after{content: '046'; color:#FFFFFF; font-size:22px; float:right}
+.deseleccion:after{content: '096'; color:#169ECE; font-size:22px; float:right}
+.Total{ font-weight:bold; color:#000}
+.SubTotal{ font-weight:bold; color:#000; text-align:right}

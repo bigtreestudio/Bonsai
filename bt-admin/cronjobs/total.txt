@@ -1,0 +1,123 @@
+Azul;22-Noviembre-2012;10:00;Nublado con lluvia en la hora anterior;15 km;16.9;No se calcula; 92;Este  16;994;10 / 
+Bahía Blanca;22-Noviembre-2012;10:00;Algo nublado;15 km;18.7;No se calcula; 37;Sudeste  37;1005;1 / 
+Benito Juárez;22-Noviembre-2012;09:00;Nublado;10 km;15.8;No se calcula; 97;Sudeste  3;985.7;10 / 
+Bolívar;22-Noviembre-2012;09:00;Cubierto;15 km;17.8;No se calcula; 92;Este  14;999.8;10 / 
+Coronel Pringles;22-Noviembre-2012;09:00;Cubierto;20 km;14.2;No se calcula; 80;Sur  9;984.5;10 / 
+Coronel Suarez;22-Noviembre-2012;09:00;Nublado;20 km;14.7;No se calcula; 93;Sur  29;985.7;10 / 
+Dolores;22-Noviembre-2012;10:00;Cubierto con lluvia en la hora anterior;8 km;17.1;No se calcula; 95;Sur  31;1009.8;3 / 
+El Palomar;22-Noviembre-2012;10:00;Cubierto con tormenta;3.0 km;20.6;No se calcula; 96;Sudeste  18;1007.3;4 / 
+Ezeiza;22-Noviembre-2012;10:00;Cubierto con tormenta;2.0 km;19.2;No se calcula; 95;Sur  27;1006.9;4 / 
+Junín;22-Noviembre-2012;10:00;Nublado con lluvia en la hora anterior;10 km;18.7;No se calcula; 91;Sudeste  27;998.6;10 / 
+La Plata;22-Noviembre-2012;10:00;Cubierto con tormenta;3.0 km;20.3;No se calcula; 96;Sur  7;1008.1;4 / 
+Las Flores;22-Noviembre-2012;09:00;Cubierto con lluvia;8 km;17.4;No se calcula; 92;Sudeste  29;1006.8;3 / 
+Mar del Plata;22-Noviembre-2012;10:00;Cubierto con lluvia;3.0 km;18;No se calcula; 95;Noroeste  7;1009.8;3 / 
+Morón;22-Noviembre-2012;10:00;Cubierto con tormenta;4.0 km;20;No se calcula; 93;Sudeste  22;1005.2;4 / 
+Nueve de Julio;22-Noviembre-2012;09:00;Cubierto;15 km;17.4;No se calcula; 92;Sudeste  11;998.4;10 / 
+Olavarría;22-Noviembre-2012;10:00;Cubierto;15 km;17.9;No se calcula; 91;Sudeste  5;992;10 / 
+Pehuajó;22-Noviembre-2012;10:00;Nublado con llovizna en la hora anterior;15 km;18.9;No se calcula; 86;Sur  33;1001.2;10 / 
+Pigué;22-Noviembre-2012;09:00;Parcialmente nublado;15 km;16.6;No se calcula; 81;Sudeste  9;977.2;2 / 
+Punta Indio B.A.;22-Noviembre-2012;10:00;Nublado;10 km;21.6;No se calcula; 78;Oeste  7;1008.4;10 / 
+San Fernando;22-Noviembre-2012;10:00;Cubierto con tormenta;2.5 km;22.2;No se calcula; 96;Sudeste  9;1007.8;4 / 
+San Miguel;22-Noviembre-2012;10:00;Cubierto con tormenta;6 km;19.9;No se calcula; 93;Sur  3;1006.5;4 / 
+Santa Teresita;22-Noviembre-2012;09:00;Nublado;15 km;21.2;No se calcula; 77;Norte  18;1009.7;10 / 
+Tandil;22-Noviembre-2012;10:00;Nublado con lluvia en la hora anterior;20 km;16.3;No se calcula; 92;Este  18;989.8;10 / 
+Trenque Lauquen;22-Noviembre-2012;10:00;Sin información ;Sin información;18.6;---;---;Sur  13;1001.8;10 / 
+Tres Arroyos;22-Noviembre-2012;09:00;Nublado con llovizna;3.0 km;14.9;No se calcula; 91;Sur  11;999.4;3 / 
+Villa Gesell;22-Noviembre-2012;10:00;Cubierto con neblina;8 km;19.1;No se calcula; 95;Sur  11;1010.8;10 / 
+Aeroparque Buenos Aires;22-Noviembre-2012;10:00;Nublado con tormenta en la hora anterior;2.5 km;20.7;No se calcula; 93;Sur  22;1007.8;4 / 
+Buenos Aires;22-Noviembre-2012;10:00;Cubierto con tormenta en la hora anterior;8 km;20.6;No se calcula; 96;Sudeste  18;1005.2;4 / 
+Catamarca;22-Noviembre-2012;10:00;Nublado con polvo en suspensión;15 km;24.9;No se calcula; 57;Sur  29;957;10 / 
+Tinogasta;21-Noviembre-2012;21:00;Parcialmente nublado con polvo levantado por viento;19 km;31.4;32.8; 48;Norte  14;867.8;2 / 
+Pcia. Roque Saenz Peña;22-Noviembre-2012;10:00;Parcialmente nublado;20 km;34.3;37.5; 45;Noreste  31;993.8;2 / 
+Resistencia;22-Noviembre-2012;10:00;Parcialmente nublado con humo;10 km;33.8;37.6; 48;Norte  20;999.4;2 / 
+Comodoro Rivadavia;22-Noviembre-2012;09:00;Parcialmente nublado con polvo levantado por viento;25 km;10.9;No se calcula; 42;Oeste  37;1005.8;2 / 
+Esquel;22-Noviembre-2012;10:00;Algo nublado;30 km;8.1;5.9; 39;Sudoeste  13;926;1 / 
+Paso De Indios;22-Noviembre-2012;09:00;Nublado;45 km;7.6;3.5; 39;Sudoeste  29;959.9;10 / 
+Puerto Madryn;22-Noviembre-2012;09:00;Algo nublado;30 km;12.4;No se calcula; 32;Oeste  37;1001.4;1 / 
+Trelew;22-Noviembre-2012;10:00;Despejado;30 km;13.8;No se calcula; 25;Sudoeste  37;1012.4;0 / 
+Córdoba;22-Noviembre-2012;10:00;Nublado;12 km;21;No se calcula; 74;Sur  44;954.5;10 / 
+Córdoba Observatorio;22-Noviembre-2012;10:00;Nublado;10 km;22;No se calcula; 75;Sur  20;962.9;10 / 
+Laboulaye;22-Noviembre-2012;10:00;Nublado;10 km;18.7;No se calcula; 87;Sudoeste  11;995.4;10 / 
+Marcos Juárez;22-Noviembre-2012;10:00;Nublado;20 km;21.7;No se calcula; 84;Sur  22;995.2;10 / 
+Pilar Obs.;22-Noviembre-2012;10:00;Nublado con llovizna;3.0 km;19.4;No se calcula; 87;Sur  27;972.9;3 / 
+Río Cuarto;22-Noviembre-2012;10:00;Nublado con llovizna;7 km;14.5;No se calcula; 98;Sur  25;964.4;3 / 
+Villa Dolores;22-Noviembre-2012;10:00;Nublado;30 km;20.4;No se calcula; 67;Sur  33;946.4;10 / 
+Villa María Del Río Seco;22-Noviembre-2012;09:00;Cubierto con lluvia;10 km;18.8;No se calcula; 96;Sudeste  9;971;3 / 
+Corrientes;22-Noviembre-2012;10:00;Algo nublado;10 km;32;35.3; 56;Norte  25;998.5;1 / 
+Ituzaingó;22-Noviembre-2012;09:00;Parcialmente nublado con humo;15 km;29.4;31.7; 59;Noreste  7;997.7;2 / 
+Mercedes;22-Noviembre-2012;10:00;Parcialmente nublado;15 km;31.4;33.0; 52;Norte  22;993.9;2 / 
+Monte Caseros;22-Noviembre-2012;10:00;Parcialmente nublado;20 km;30;31.8; 55;Norte  14;999.8;2 / 
+Paso De Los Libres;22-Noviembre-2012;10:00;Parcialmente nublado;12 km;29.8;31.4; 55;Este  14;998;2 / 
+Concordia;22-Noviembre-2012;10:00;Cubierto con tormenta sin precipitación;15 km;26.5;25.8; 66;Oeste  31;1003.3;4 / 
+Gualeguaychú;22-Noviembre-2012;10:00;Cubierto con tormenta;8 km;19.9;No se calcula; 92;Este  11;1005.7;4 / 
+Paraná;22-Noviembre-2012;09:00;Cubierto con tormenta;6 km;18.2;No se calcula; 98;Sudeste  20;998.6;4 / 
+Formosa;22-Noviembre-2012;10:00;Nublado;20 km;35.2;38.6; 43;Norte  24;999.3;10 / 
+Las Lomitas;22-Noviembre-2012;09:00;Algo nublado;20 km;31.6;35.0; 55;Noreste  11;989.4;1 / 
+Mount Pleasant Airport<br>(Islas Malvinas);22-Noviembre-2012;09:00;Cubierto con chaparrón de nieve;3.0 km;1.1;-6.9; 96;Oeste  53;991.9;5 / 
+La Quiaca;22-Noviembre-2012;10:00;Parcialmente nublado;20 km;15.8;No se calcula; 41;Sur  9;673.2;2 / 
+Jujuy;22-Noviembre-2012;10:00;Nublado;12 km;27.2;28.3; 59;Sudeste  7;903.4;10 / 
+Jujuy Universidad Nacional;22-Noviembre-2012;10:00;Nublado;15 km;23.3;No se calcula; 75;Noroeste  3;863.6;10 / 
+General Pico;22-Noviembre-2012;09:00;Nublado con neblina;10 km;15.8;No se calcula; 93;Sur  29;995.4;10 / 
+Victorica;22-Noviembre-2012;09:00;Despejado;40 km;13.3;No se calcula; 40;Sur  14;979.8;0 / 
+Santa Rosa;22-Noviembre-2012;10:00;Algo nublado;30 km;16.5;No se calcula; 47;Sur  31;992.5;1 / 
+Chamical;22-Noviembre-2012;09:00;Algo nublado;25 km;26;24.3; 47;Sur  22;957.7;1 / 
+Chepes;22-Noviembre-2012;09:00;Nublado con llovizna;10 km;15;No se calcula; 89;Calma;938.9;3 / 
+Chilecito;22-Noviembre-2012;09:00;Parcialmente nublado;18 km;23;No se calcula; 77;Sur  22;908.1;2 / 
+La Rioja;22-Noviembre-2012;09:00;Algo nublado;18 km;24.6;No se calcula; 50;Sudoeste  25;961.2;1 / 
+Chacras de Coria;21-Noviembre-2012;09:00;Algo nublado;Superior a 70 km;23.5;No se calcula; 57;Sudeste  9;902.6;1 / 
+Malargue;22-Noviembre-2012;10:00;Parcialmente nublado;20 km;13.1;No se calcula; 41;Noreste  9;858.8;2 / 
+Mendoza;22-Noviembre-2012;10:00;Parcialmente nublado;15 km;17.8;No se calcula; 24;Sur  11;936.6;2 / 
+Mendoza Observatorio;22-Noviembre-2012;10:00;Nublado;15 km;17;No se calcula; 42;Sur  7;924.1;10 / 
+San Carlos (Mza);22-Noviembre-2012;09:00;Algo nublado;15 km;14.6;No se calcula; 46;Sudeste  3;908.2;1 / 
+San Martín (Mza);22-Noviembre-2012;09:00;Parcialmente nublado;15 km;16.7;No se calcula; 31;Sur  11;942.6;2 / 
+San Rafael;22-Noviembre-2012;10:00;Algo nublado;20 km;15.4;No se calcula; 47;Este  18;932.4;1 / 
+Uspallata;22-Noviembre-2012;09:00;Parcialmente nublado;15 km;11.6;No se calcula; 54;Sur  3;812.8;2 / 
+Bernardo De Irigoyen;22-Noviembre-2012;09:00;Parcialmente nublado con bruma;15 km;24.8;No se calcula; 63;Noreste  24;921;2 / 
+Iguazú;22-Noviembre-2012;10:00;Parcialmente nublado;20 km;28.4;30.3; 65;Norte  14;979.7;2 / 
+Oberá;22-Noviembre-2012;09:00;Parcialmente nublado;20 km;28.2;30.8; 67;Norte  3;-;2 / 
+Posadas;22-Noviembre-2012;10:00;Parcialmente nublado;20 km;32;33.7; 47;Noreste  13;993.8;2 / 
+Chapelco;22-Noviembre-2012;10:00;Despejado;15 km;7;2.9; 34;Sudoeste  27;929.4;0 / 
+Neuquén;22-Noviembre-2012;10:00;Despejado;15 km;12.2;No se calcula; 25;Sudoeste  16;988.8;0 / 
+Bariloche;22-Noviembre-2012;09:00;Algo nublado;10 km;5.4;1.1; 45;Oeste  24;924.8;1 / 
+Cipolletti;22-Noviembre-2012;09:00;Despejado;25 km;15.2;No se calcula; 49;Oeste  9;987.7;0 / 
+El Bolsón;22-Noviembre-2012;10:00;Parcialmente nublado;30 km;11;No se calcula; 44;Calma;983.6;2 / 
+Maquinchao;22-Noviembre-2012;09:00;Despejado;40 km;6.4;4.5; 60;Sudoeste  9;917.6;0 / 
+Río Colorado;22-Noviembre-2012;09:00;Algo nublado;15 km;18;No se calcula; 60;Este  9;1004.9;1 / 
+San Antonio Oeste;22-Noviembre-2012;10:00;Despejado;30 km;15;No se calcula; 21;Sur  33;1017.8;0 / 
+Viedma;22-Noviembre-2012;10:00;Despejado;30 km;16.5;No se calcula; 32;Sur  25;1016.5;0 / 
+Orán;22-Noviembre-2012;10:00;Parcialmente nublado;10 km;29.2;31.4; 61;Sur  14;960.6;2 / 
+Salta;22-Noviembre-2012;10:00;Nublado;15 km;24.2;No se calcula; 66;Sudoeste  11;873.8;10 / 
+Tartagal;22-Noviembre-2012;10:00;Parcialmente nublado;10 km;30;30.6; 48;Noreste  14;949.3;2 / 
+Jachal;22-Noviembre-2012;09:00;Cubierto;Superior a 70 km;17;No se calcula; 50;Sudeste  9;885.7;10 / 
+San Juan;22-Noviembre-2012;10:00;Algo nublado;15 km;20;No se calcula; 30;Sudeste  20;948.8;1 / 
+San Luis;22-Noviembre-2012;10:00;Despejado;20 km;15;No se calcula; 43;Sudeste  27;934;0 / 
+Santa Rosa del Conlara;22-Noviembre-2012;10:00;Parcialmente nublado;20 km;17.3;No se calcula; 68;Sur  25;941.5;2 / 
+Villa Reynolds;22-Noviembre-2012;10:00;Algo nublado;15 km;16.4;No se calcula; 57;Sur  18;959.6;1 / 
+El Calafate;22-Noviembre-2012;10:00;Parcialmente nublado con precipitación a la vista;25 km;8.4;4.5; 45;Oeste  29;980.5;2 / 
+Gobernador Gregores;22-Noviembre-2012;09:00;Algo nublado;45 km;9.6;5.1; 34;Oeste  46;963.1;1 / 
+Perito Moreno;22-Noviembre-2012;10:00;Parcialmente nublado;50 km;9.8;5.8; 41;Oeste  38;960.2;2 / 
+Puerto Deseado;22-Noviembre-2012;10:00;Algo nublado;30 km;13.2;No se calcula; 28;Oeste  24;999.3;1 / 
+Río Gallegos;22-Noviembre-2012;10:00;Nublado;30 km;8.1;3.9; 36;Oeste  33;1000.6;10 / 
+San Julián;22-Noviembre-2012;10:00;Nublado;30 km;14;No se calcula; 24;Oeste  31;998.4;10 / 
+Santa Cruz;22-Noviembre-2012;10:00;Nublado;30 km;11.1;No se calcula; 41;Oeste  33;989.7;10 / 
+Ceres;22-Noviembre-2012;10:00;Cubierto con tormenta;6 km;19.6;No se calcula; 90;Este  25;998.9;4 / 
+El Trébol;22-Noviembre-2012;09:00;Nublado;15 km;19;No se calcula; 90;Este  9;997.4;10 / 
+Rafaela;22-Noviembre-2012;09:00;Cubierto con tormenta;3.0 km;18.8;No se calcula; 99;Sur  25;995.8;4 / 
+Reconquista;22-Noviembre-2012;10:00;Nublado con humo;8 km;32.1;36.5; 57;Norte  16;999;10 / 
+Rosario;22-Noviembre-2012;10:00;Nublado;15 km;21.5;No se calcula; 82;Sudeste  20;1002.6;10 / 
+Santa Fe;22-Noviembre-2012;10:00;Cubierto con tormenta;4.5 km;20.3;No se calcula; 92;Este  18;1005;4 / 
+Sunchales;22-Noviembre-2012;09:00;Cubierto con tormenta;3.0 km;18.4;No se calcula; 100;Sur  14;996.8;4 / 
+Venado Tuerto;22-Noviembre-2012;10:00;Nublado con lluvia en la hora anterior;10 km;19.9;No se calcula; 89;Sudeste  24;994.8;10 / 
+Santiago del Estero;22-Noviembre-2012;10:00;Parcialmente nublado;12 km;30.2;29.9; 47;Sur  33;982.6;2 / 
+Río Grande B.A.;22-Noviembre-2012;09:00;Parcialmente nublado;30 km;6.5;1.4; 78;Oeste  38;995.7;2 / 
+Ushuaia;22-Noviembre-2012;10:00;Parcialmente nublado;30 km;4.7;-1.0; 70;Sudoeste  38;988.6;2 / 
+Tucumán;22-Noviembre-2012;10:00;Nublado con polvo levantado por viento;6 km;29.4;29.5; 53;Sur  29;954.6;10 / 
+Base Belgrano II;22-Noviembre-2012;09:00;Algo nublado;20 km;-2.4;-8.0; 95;Sur  18;964.4;1 / 
+Base Esperanza;22-Noviembre-2012;09:00;Cielo invisible con ventisca alta;Menor a 100 mts;-5.5;-17.8; 87;Sur  83;963;10 / 
+Base Jubany;22-Noviembre-2012;09:00;Nublado con nevada;500 mts;-2.2;-7.1; 89;Sudeste  14;969.7;5 / 
+Base Marambio;22-Noviembre-2012;10:00;Cielo invisible con ventisca alta;Menor a 100 mts;-8.1;-21.6; 100;Sudoeste  85;941.3;10 / 
+Base Orcadas;22-Noviembre-2012;09:00;Nublado con niebla a la distancia;4.0 km;1;-6.4; 91;Noroeste  44;974.6;10 / 
+Base San Martín;22-Noviembre-2012;09:00;Nublado;20 km;-1.6;-9.3; 73;Este  37;982.1;10 / 
+Colonia<br>(Uruguay);22-Noviembre-2012;09:00;Nublado con tormenta;4 km;20.4;No se calcula; 74;Oeste  31;-;4 / 
+Rocha<br>(Uruguay);22-Noviembre-2012;09:00;Nublado;10 km;21.6;No se calcula; 75;Noreste  24;-;10 / 
+El Prado<br>(Uruguay);22-Noviembre-2012;09:00;Nublado;10 km;21.2;No se calcula; 67;Noreste  22;-;10 / 

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Autoloader.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127319400000000" />
+<file name="Builder.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127320000000000" />
+<file name="ChannelFile.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127321200000000" />
+<file name="Command.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127330200000000" />
+<file name="Common.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127330200000000" />
+<file name="Config.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127330800000000" />
+<file name="Dependency.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127331400000000" />
+<file name="Dependency2.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127331400000000" />
+<file name="DependencyDB.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127332000000000" />
+<file name="Downloader.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127332600000000" />
+<file name="ErrorStack.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127332600000000" />
+<file name="Exception.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127332600000000" />
+<file name="Frontend.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127332600000000" />
+<file name="Installer.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127333200000000" />
+<file name="PackageFile.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127333800000000" />
+<file name="Packager.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127333800000000" />
+<file name="pear.conf" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127333800000000" />
+<file name="Registry.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127333800000000" />
+<file name="Remote.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127333800000000" />
+<file name="REST.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127333800000000" />
+<file name="RunTest.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127333800000000" />
+<file name="Validate.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127334400000000" />
+<file name="XMLParser.php" server="ftp.bigtree.com.ar/www/encuestas/" local="129126636000000000" remote="129127334400000000" />
+</dwsync>
